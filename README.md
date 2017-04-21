@@ -7,3 +7,6 @@ git commit -m "first commit"
 git remote add origin https://github.com/akumar2000/test_repo.git
 git push -u origin master
 
+Hello Guys,
+
+This is a test repository and I am learning how to work with GitHub.
